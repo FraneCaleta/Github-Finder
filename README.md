@@ -1,6 +1,6 @@
 # Github Finder
-React application used to search Github users and display their information (Github API is used for this) in an awesome way!
-<strong>Tailwind CSS</strong> and <strong>DaisyUI</strong> were used for styling the application. <br/>
+[React](https://react.dev/) application used to search Github users and display their information ([Github API](https://api.github.com/) is used for this) in an awesome way!<br/>
+[Tailwind CSS](https://tailwindcss.com/) and [DaisyUI](https://daisyui.com/) were used for styling the application. <br/>
 
 ### You can check out application preview at <i>https://github-finder-frane.netlify.app</i>
 
